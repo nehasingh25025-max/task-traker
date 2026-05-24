@@ -27,11 +27,9 @@ Backend:
 
 ## Live Demo
 
-https://perceptive-wisdom-production-bb9b.up.railway.app
-
 ## GitHub Repository
 
-(https://github.com/adarshchauhan005-ops/Ethara-team-task-manager)
+
 
 ## Installation
 
